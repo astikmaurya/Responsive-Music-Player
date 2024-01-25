@@ -70,9 +70,6 @@ This project is open to contributions! If you're a beginner looking to make your
 
 5. Open a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use it as a learning resource or as a starting point for your own projects.
 
 ## Acknowledgments
 
