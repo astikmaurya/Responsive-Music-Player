@@ -11,8 +11,9 @@ Welcome to the **Music Player Dashboard** project! This project is perfect for b
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Feel free to add more screenshots showcasing different aspects of your project.*
+![Screenshot 1](mp01.png)
+![Screenshot 2](mp02.png)
+
 
 ## Getting Started
 
