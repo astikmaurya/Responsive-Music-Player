@@ -1,6 +1,7 @@
 # Music Player Dashboard with Sliders
 
 Welcome to the **Music Player Dashboard** project! This project is perfect for beginners looking to practice their frontend development skills. It provides a basic yet functional interface for playing music, built using HTML, CSS, and JavaScript. The goal is to create a responsive dashboard that works well on various devices.
+### Leave a Star if you like the project.
 
 ## Features
 
